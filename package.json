@@ -44,6 +44,7 @@
     "bluebird": "3.5.4",
     "body-parser": "1.18.3",
     "camelcase-keys": "5.1.0",
+    "decamelize-keys-deep": "0.1.1",
     "connect-timeout": "1.9.0",
     "dockerode": "2.5.8",
     "express": "4.16.4",
